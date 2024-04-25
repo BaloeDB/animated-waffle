@@ -1,5 +1,5 @@
 # Tech Stack
-## Metadata
+## Project Data
 1. Project Manager: Gradle - Groovy
 2. Language: Java 21
 3. Packaging: Jar
